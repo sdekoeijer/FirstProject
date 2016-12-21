@@ -1,0 +1,50 @@
+h1 {
+font-family: "chalet";
+color:#fff;
+text-align:center;
+line-height: 2.5;
+}
+
+.header {
+background: #0D47A1;
+margin-top: -21px;
+height: 3;
+}
+
+.tekst {
+font-size: 24px;
+background:#009688;
+}
+
+* {
+margin-left: 0px;
+margin-right: 0px;
+}
+
+h2 {
+text-align:center;
+font-family: "chalet";
+line-height: 1.5;
+color:#FFF;
+}
+
+#links {
+float:left;
+width:510px;
+background: #009688;
+}
+
+#rechts {
+float:right;
+width:510px;
+background: #009688;
+text-align: center;
+}
+
+#rij {
+        width: 1024px;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: crimson;
+    }
